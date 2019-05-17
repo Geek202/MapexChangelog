@@ -1,7 +1,34 @@
 # The Mapex Changelog
 The changelog for the in development server The Mapex.
 
-## Latest (13/5/19)
+## Latest (WEBSITEEE! - 16/5/19)
+### Whats new?
+#### Plugins
+- EnjinPlugin
+- Sudo
+- iControlU
+- LibsDisguises
+- UPDATED: DiscordSrv
+#### Commmands
+##### /dis <entity>
+Disguise as another entitiy
+##### /undis
+Undisguise yourself
+##### /sudo <player> <message>
+Type things in another player's chat. Supports commands
+### Enjin
+This is a BIG one (thats big with a capital B-I-G)! We now have a [website](https://themapex.enjin.com). Staff, contact a dev or admin to got registered with a staff account.
+### Changes
+- Updated the tablist to have a link to the website
+- Added more things to the bossbar
+- Started to build market area
+- Staff: New world for building in: do /mv tp BuildingWorld
+- Staff: Plans made for Nether hub/spawn
+### Planned changes
+- Nether spawn area/hub
+- Updates to the ChatChannels plugin
+
+## The Epic Update - 13/5/19
 ### Whats new?
 #### Plugins
 - ChatChannels: Custom plugin by me, Tom_The_Geek
@@ -30,4 +57,4 @@ Added a custom header and footer to the online players list.
 #### Citizens
 Custom NPCs!
 ### Planned changes for the future
-- Enjin site!
+- Enjin site! (DONE!)
